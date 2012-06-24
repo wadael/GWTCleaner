@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: GWTCleanerr
+Bundle-SymbolicName: GWTCleanerr
+Bundle-Version: 1.0.1.qualifier
+Bundle-Activator: org.wadael.gwtcleanerr.Activator
+Bundle-Vendor: wadael.org
+Require-Bundle: org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ClassPath: .
+Eclipse-LazyStart: false
+Bundle-ActivationPolicy: lazy;include:="org.wadael.gwtcleanerr"
